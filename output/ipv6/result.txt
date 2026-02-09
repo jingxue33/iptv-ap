@@ -1,454 +1,403 @@
 🕘️更新时间,#genre#
-2026-02-09 15:27:22,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=5559462299&sign=e9365f66419b77c7ed8546650c196733a23640f9123ed7fe1f30e9a0542b9cb3db1db7dc9e5a801a81e2c14c48cc917f1ba6895b855531db5ab35a127458061118cfab4b32def455adf885309c45a6ae17&auth_token=d96795f1341390f714a1afffe625b303$订阅源
+2026-02-09 19:16:14,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源
 
 📺央视咪咕频道,#genre#
-CCTV-01咪咕,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=5559462299&sign=e9365f66419b77c7ed8546650c196733a23640f9123ed7fe1f30e9a0542b9cb3db1db7dc9e5a801a81e2c14c48cc917f1ba6895b855531db5ab35a127458061118cfab4b32def455adf885309c45a6ae17&auth_token=d96795f1341390f714a1afffe625b303$订阅源
-CCTV-01咪咕,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=5559462299&sign=e9365f66419b77c7ed8546650c196733a23640f9123ed7fe1f30e9a0542b9cb3db1db7dc9e5a801a81e2c14c48cc917f1ba6895b855531db5ab35a127458061118cfab4b32def455adf885309c45a6ae17&auth_token=d96795f1341390f714a1afffe625b303$订阅源
-CCTV-02咪咕,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=df9fd6ac364e8216e05a05e4232242041133051b18342e1ba4da8390d79b4aa30eaf746280cd4c97ec100463db8d095d042d8ee66779c935c211ca383c2b0be3bc149983b23e5bce6e8c2a6ccb6dedd81a&auth_token=d96795f1341390f714a1afffe625b303$订阅源
-CCTV-03咪咕,https://mgtv.ottiptv.cc/mg/624878271.m3u8?userid=5559462299&sign=2cf1e22ab65155845801cba842f2ee7b1a3aa2c7b97438aa24b57d6eadb3b02485c99eeecb7c486c943a3aa1d11ba962e1c322e35c2e71da8ccf4d1856936f815be36b6605660721bf8e0c7d6f1d52e5b3&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-03咪咕,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源
 CCTV-03咪咕,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源
-CCTV-04咪咕,https://mgtv.ottiptv.cc/mg/631780421.m3u8?userid=5559462299&sign=57a4c5a51380d81fb4bb6248a6af4a44f1e297b2da43f458334d740b673a500aaa8429ca51c3b0edc429019fdc660623932774dcc2a8d608e0a85a70d814bfb059893ad1e81caaf7067e1f5752a303895e&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-04咪咕,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$订阅源
 CCTV-04咪咕,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-04咪咕,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-05咪咕,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=5559462299&sign=4ed0e3a32de42010f3f9cc20078ff60f0c5bed0faa5abb008a79a74932fd2154cb8252dea408b6d4c2b0a9c004c1f38b80fa4352b97aa695d2c94d1eb32913d470fa6c03bc83b665970c038e307b381f6b&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-05咪咕,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$订阅源
-CCTV-06咪咕,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=5143c45f33e91152dcd319a05d260ce897f7fdee733e3acb56152a19a86f1effb205385cf355e6aa25ffb094e758643c219a1dbc4807dd9031d776cb9d098c2bcc8ebed01589432f8c45424204f2a8b280&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-06咪咕,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
 CCTV-07咪咕,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48$订阅源
-CCTV-08咪咕,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=5559462299&sign=18839f8e3d24b5087ff99e137438121074dea6097a395597f4f61553a26851a69181bf214bc48fa5d6df6400b12523c57c1129b322078d118f6e6808ba842bda2360b6ae2c4db3dcd433fcff82458a33c0&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-09咪咕,http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec$订阅源
 CCTV-09咪咕,http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec$订阅源
-CCTV-09咪咕,https://mgtv.ottiptv.cc/mg/673168140.m3u8?userid=5559462299&sign=901036961e40feb6468003a6b7500c5f5ca4a2271ea06833fb2f4d7e18f7e498725183b42fde755559a9b67a990c15829bdfc759a0816e148ce67758c82e7cb91af373d9dd596c03a24179eb22b6807887&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-10咪咕,http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215bbc02fa208301259959a2d995deb9996c41b650e244fc75c3d5bae41d623bed5ba96aa38c7ea483d856771c119f74e8bb93fb60dc8304e146d0bf46405e88554d84e414$订阅源
-CCTV-10咪咕,https://mgtv.ottiptv.cc/mg/624878405.m3u8?userid=5559462299&sign=7dfc5f96743fa6fa57d1304e3a2a353505333e6374bd585770e749a85217d642d8fd5129df6bd57b08dec42b04a17f8e6ea0a547503891b0d23f5e5e4767576c482dcaf6788a26012b32d20860fcfe50df&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-10咪咕,https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86$订阅源
-CCTV-11咪咕,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=5559462299&sign=18dc3b50e3ca4b9640b1ce63010101018fea7cc2c5952d63b3adae44e8ad863f9a8a8d3b6d543b683d750af92f4febb14dc1270fd76a93190671335223d8f5a9c6c9e2219a8a1b1621071e61f07f6188fb&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-12咪咕,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a$订阅源
-CCTV-12咪咕,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=5559462299&sign=125914a6d2f1a8708ec0d230b7e281ec7d152169c856a1f775f7fef7cc0e8053a4d0752c349a6e6ad5da94650396c0b3422c05345428a7b26b906f068489f363a147a0e853dbf7df523896bd23ee9279af&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-12咪咕,https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081$订阅源
 CCTV-13咪咕,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13咪咕,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13咪咕,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=5559462299&sign=82ed9134ec8100ba46419192bd60574ce923f8c114aefb0a34f63272094b8f8d4bc05da125368b657cab9e8e4a5495f0a75a6b4244a8e951eb9e403170c988a850dbbc3becf2182ff2c68438dbc3335037&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-13咪咕,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
 CCTV-13咪咕,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13咪咕,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14咪咕,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03$订阅源
-CCTV-14咪咕,https://mgtv.ottiptv.cc/mg/624878440.m3u8?userid=5559462299&sign=4ba13b9d9945a36da307bd7b90bac759eaf82d03ca9669de9834b9cc64f0cb98cd51610aad3a02fce818f939d028c10bb01754b5220df61e5af3eff3edf202dae73cce8b935fff5ea0f68f5f9ac1d418f1&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-14咪咕,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
 CCTV-14咪咕,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CCTV-15咪咕,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=5559462299&sign=12ee0f49c7d0a2f1cf6a41d68373c43540e5a2573bea6f6b02e2bd0ce81c0e7538972651eb3ba41e89692a7689e0f0e076893df002689f6e08911e6f19eba65206f129b3428e053f993f106ba9868d8c0d&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-15咪咕,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
-CCTV-17咪咕,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=00e5cb5d6d2f3c87ba8eff505c4c4786786e34364bed9d44d509088ccd221caf8ee1f297ac7e9363d64c3d997677370960eb49f3d32915d9eb75c6eccebd8d6fb0ad6b8948c3f4a799fdd7ce4b9ff79a64&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-17咪咕,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7e0d3c475924ad4706b90f18fd4775c1c134103274e9ad9d59015289e02877b65420a149fcae4f793ded0177cc600ac79d9a95a234e4a8db198072e6973c4a14c05c9dc6$订阅源
 
 📺央视频道,#genre#
-CCTV-1,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=5559462299&sign=4902182a31e0a7c4df7e7061b14d0302722e5636c3d929625810771ea9c80144bea895f5c927f599b89233b2701c2b4aebb1de0b29e5c69df2f3ba4ec75bb4cf02d7bae040cfde68c03eaea02268c2d2bf&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
-CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=b1a1a59ec73e28800afdfe1ba6e5a14b223f5032dc481cca9830ff574adc9045d3fbf98c19c1ac96833c90884b73683a94d9baad58b573f0ee3601f4bec756da0442281bc00e51b37c1f2cbe5cb6ecfb59&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d$订阅源
-CCTV-3,https://mgtv.ottiptv.cc/mg/624878271.m3u8?userid=5559462299&sign=daf01f271b4b388af83e43fb62c8d8c8b04682e2cd42d7a3d8c27e3aa79230d9643cbc5be99f983d96429e69f706a2dfb74e9ac098fd02326f86f354df9797e4cb10e0f60f0a49c3e1ce24f00c0ed3078a&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源
-CCTV-4,https://mgtv.ottiptv.cc/mg/631780421.m3u8?userid=5559462299&sign=2e4590f2504109c72163d68b685071f37b789aa04ca3e0a59becab637d7b08fbc1f2fb1d3b5b5de1600ef6958512a0c9121d72ea06ff3ebd0379c778eff98295e6bb157d5241a5acc6efc3d6308392de3d&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=5559462299&sign=3d4c90baf0f38d76221e348c367acefebf9f40a0b803ab31c6c2bf92968e99fe63132cd3df73b23d15f0befd3f6fa4bc8aaf371dd5db3ffc0f8787480bbd2bd07ec9315244e01b19bb1bea52d19e490a82&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$订阅源
 CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc$订阅源
-CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=f01118783ad06f05c77cf39a351b0ea9fa33718f570cd8b9d26444a54a4858b7dd4f5073506a46437cd67db817fcc555a36c3559879fccff6ab984b801176c1816131c4e369c976814d2c06e4949550cc6&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$订阅源
-CCTV-6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=a63099527d31e56c2fe13e83fd8f9ee223abc85ed65012600da21fa7a924e75221f72d9cd1addf6061a5417c11c9ad46c67af2409b768c3fb5c1f8f2e4d4cc1bd46413b5a0776401e48b54956482a7cc6a&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
 CCTV-7,http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d$订阅源
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48$订阅源
 CCTV-8,http://www.freetv.top/migu/624878356.m3u8?migutoken=e6e1b0f11b3900539ca13088ccf9da6d0a771d58a295315011db1676c607e4bfd4d2ecf8b5f89e888d98843c67f6657703a3192a098894da656341d37aaa2d4abf591b1a09d80e6fff894dd29d$订阅源
-CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=5559462299&sign=d3f2f998d946f0e55591c50d1e43e8ffbda159523253e1df65dd4ec5d1a3cb28fbab0556975f2d318ce9e3d2154776178ff0cf3f34fc76f450ab9666b2f2b0cf72797815747505aa6e27058f5d1ce18e35&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080$订阅源
 CCTV-9,http://www.freetv.top/migu/673168140.m3u8?migutoken=b6b3dff09079aa89b4ea1988e02de40fa003df2db6f755979b0c414bdfffe3225adf1ec44edf5934481e00ada14c3b23dc6e93bb72f70ed2319f17002205dc998b6ce2dde3d00bf5701f8261ec$订阅源
-CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?userid=5559462299&sign=dedebce358861164572a71a3f6fc7fee91fec57ad4d9c1583a7d7dde701cb335d4d39d338c8604faa3dda861a3dca0a4ec27fe588055c93308aa184707c42a5fcb5794b850de0c91f3417d9b16dd651195&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e$订阅源
 CCTV-10,http://www.freetv.top/migu/624878405.m3u8?migutoken=994dc87ce4767211215bbc02fa208301259959a2d995deb9996c41b650e244fc75c3d5bae41d623bed5ba96aa38c7ea483d856771c119f74e8bb93fb60dc8304e146d0bf46405e88554d84e414$订阅源
-CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?userid=5559462299&sign=1c420ee67abf9f24aa518d86cc28f88eba61276d6cf64ec1b3be3c95795b1175e6e37170a8cdb5d27aff8b7a0f387ea30c34bcaeb08f466fc905cc53c1f6c6ddfc2fb4e08fd190452e62de133fb8359ce8&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=e7e8abe9ae322869a93e8450014e08c5949217331c53007abb9f6eee64b06cc42f81828befee8b129005bcdebf805a1bbd19f0949e8329cf7ff4ab9379e930cfb8185ddf66c83b972ea6481e86$订阅源
 CCTV-11,http://www.freetv.top/migu/667987558.m3u8?migutoken=00a21f1483e571da068c555e3eea928f7c6183b26d7acc2afe9bb5e115f0005e02b6118176789d76765ae297bd6dfe4e14966e64415f0781535d91ed266aac177d6ff10fa6358e0eedddc2223b$订阅源
-CCTV-11,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=5559462299&sign=bf0427043f735aeb3fe1cf9e487c32197fd32267d52703ca4166a2dc51d678dcabc36496b133548f173e2b421dc284b338d6a569647b6a3aeb2dbab167a70a6b3dc98cadb3e94207e9255c8c1edf53948d&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=dfda8acb7dfd1d1149e2e4a381e46a298c47e88f939d7deef7846d6e15f76fc596a0a58e349a64678edbb921fc353b458211c4bbf22e23bb75fd1dc9384d8c251c729958bddd28ec81d8c0922f$订阅源
 CCTV-12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a$订阅源
-CCTV-12,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=5559462299&sign=2c01dc511eb09c80510bc54230d8cd1302bfdcdd56943563f284f6a71df04279559f52b4eda6b8575640a7e3b6dee00dca632f824d2e7ea53d84b0f9a288180b636d5a0052f1c7ea07b80d2af217372131&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533f5db2f808b4613be4d2901d3d406a67fca92ee219bc3692dff97d63d38123fde519465b77404b0a2c0c59bec5e83ad2be42019845acc7e59290159021d585352689cc$订阅源
-CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=5559462299&sign=b37d08e945ffba521e7b6d7e720531996944371c5f03077d90762ea7214a2bac695c2f02460334b0747b57fb2b8d8cb4eb02ba38f0ac1ef9b54ddf23f3768c453be84873b0f3a6fe0b24bfb73dd20705ca&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03$订阅源
-CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?userid=5559462299&sign=d32e5546f0fd79cf9092cfba07b36f8915651843bbe2f3d503cff193084a7ef8e9ae8cfa686ddb3d0eeb5dda72f6b01c8924b86320bfe88dd3a0da0972fc5442abf0816a588fdee62157c24f9aa7edae70&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396$订阅源
-CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=5559462299&sign=6617ccbd3108deacbd533377141437abedd852aadf90490405b9fdf190d588b0ac459209a5340d2770820b319a441d60076bd4a1cb0e4cf06c453700e3b6b174991874c68ea360af97e9ef8fe5dc3f6473&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f$订阅源
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7e0d3c475924ad4706b90f18fd4775c1c134103274e9ad9d59015289e02877b65420a149fcae4f793ded0177cc600ac79d9a95a234e4a8db198072e6973c4a14c05c9dc6$订阅源
 
 📡卫视频道,#genre#
-广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=5559462299&sign=d7b48b9af768bb0d5bdd5f6ebe628de254111c5594b26c0c8bca1d7b7595de50a3a441b16626083cdefc21798ac4c8b2435a1de5fac095c8c609d9e6f618356c19599a6c5bfc3bcb646029741b171ae92f&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=78af5371d66a723fc72d7a69c8a18ade502c19d2cf715aa502730a2b197148f3ac859ba4dfc8177df928c7b17e4f7e50e73fa17782751d96ca1224dc27c62d3025503e7b80de41b09560f78ee1$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-北京卫视,https://mgtv.ottiptv.cc/mg/630287636.m3u8?userid=5559462299&sign=8c38f19cca150ab3e079ad1780d080937c05a9a9355511ef59b4ed8f035f924daeaa2f87865ec83f46aff25a39dc2ee437ddf53232a3e22a1df2ba0c0b72ebc08991f9aba35cd69d27cb83720bb0e9ccec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=34d88b0263e1676dafca253db4cd92b42360cd9e812c0b6ea523d0731a2308529992285096264dc41ac8e4cc77734ec30d07dce52e7bac2926c744d9ac3b9fe53d0491fb7ced52278ec820d3ba6d836a81&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-重庆卫视,https://mgtv.ottiptv.cc/mg/738910914.m3u8?userid=5559462299&sign=3ed5c8e3e10a4069c3ff416f564b4eaa745b73345b0b1618d9a72efe8b915421fee4205e9aa57dc92a5ff1ff82a2a2535a701745e2c1b253425b771e94334f8021405e258a17b39df205d0bb7200ea8329&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$IPV4•线路24
-东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=5559462299&sign=8c05f143d1dee9a783540d45ce7167231e57ba720077081924630586de8a59e435bdee396e5d317f0bf0476ef54d2805deb50407f4137b9d0a69b898e29c2a42696aca774b7aa812295ddea3484ca6b5f9&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=67b4219a3e6acdcf288118ed6bf84d3197052966f0bc854079b6038b3fca6437744ca78bb0ea1fad6f61b4c73d0df57bd8b539ec247fd28ce16d1375716bbf774ea19c99e4585bb828fa3851c0$订阅源
-东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=a5b086179a93ff067e58e7644bec02eb65c88e1136fc6375699262a7b76fd89ee07eec3d56b28b10f980d81b5b7d1444e3fe75a6027805e0d52f900f6dc550c6c5f4746304f45019ef7413c08d3a838bb7&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
-海南卫视,https://mgtv.ottiptv.cc/mg/947472502.m3u8?userid=5559462299&sign=bd725c666139bddb69a4ed46eb734de982c7f2ab8971217c4ba3134ec4524bab4284be1cdb6feb3121a5aa313ec470db58a6ed6ad95a1aa1c5d2ca9475e74174cbe1589a88cd6c37828d1db1785e63b61b&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
-河北卫视,https://mgtv.ottiptv.cc/mg/962042070.m3u8?userid=5559462299&sign=9f78a4ef063a01c8021a251f3be2b9c25d12e0da2e9cde7571a5b4117431c7e7e4386337c93c16019d5354045c76c3486957d46f4fd12d8843d3abda9dca7a7732f229ee681fbdf09f17a21e2b7838d668&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=902a2c24d68c7f2a19193139c1541bded8c9eb2f13b66c41a7b94d876d7e4a35e492a31d143e8f722bf700e1d19aadcaa7a5cd7252ee54edf33de3d7f6388f112ba77b99c1959ede179c401f323c3720cd&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac$订阅源
-吉林卫视,https://mgtv.ottiptv.cc/mg/947472500.m3u8?userid=5559462299&sign=a207939fc3e5858730f5027407e4bb79a87e73216f35b21ccb92a3006c7e62710cd44b0a55cf285921dcb74a737e07e68acecfb8bc1a18183dadb87b37b060e1ae6661942a4a3a3bb690eb532503a548d6&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=18d6d17bc9f6d0621b56e251449da66bb58876d41330b568d80f5262c9496615d17187c2eb3404fcf6c7110bd098cb97ef096ba5ee0db8bc36853d5e90104624843156a3bbce9cd841e94e3b54$订阅源
-江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=5559462299&sign=97424b22c1c6a5815a1e9507518f24569516dc92a9984ba8ecfdd418a3fd884eacbb4455dbbca65b403c8992d0d070dd27b1de41a1a531d75e1a83605e62856483fd06d6cac9ed34188e9b8de7e0bf2ea1&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96$订阅源
-江西卫视,https://mgtv.ottiptv.cc/mg/783847495.m3u8?userid=5559462299&sign=039e6320045261db044d6cd02318027f3d2e3d016953c538f0fa656b15880a26f1bbf3a4ef7d8c2ba778878898991367f2ace4d3a593eb61f82b963d21ef3fe81fa9d3f91f25c339fa8a22a10aede858a2&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178b45706a0b6a0ceddc82ce06e53375cfedbc96fd0b00c12195c7d77b6f23811a67970bcfeb47629aa5aa6$订阅源
-辽宁卫视,https://mgtv.ottiptv.cc/mg/630291707.m3u8?userid=5559462299&sign=00c76ad4b5c416bde971418371ef8bbe2a6d3f1743d704986102624bb42d8feb3a83c3d04b6c8b29ba8c97c491c07d3038c132b2b34334a44afbb9c5a18cf0a0c3b59039d2c77770153c0808d619ad7c84&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
-宁夏卫视,https://mgtv.ottiptv.cc/mg/738910535.m3u8?userid=5559462299&sign=107630a1e4bfdf3bcb3f6cb2f3a2b3baf236c5301804646e59fc37c1f1165382aec21e5b25ee36b9cfa54c4f4de4c8c34576659277e7337605da23b9d466b663835b6b046ef7e7f4f5b04a4f83b50a7144&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=e80c7bdf3e6be219cba8afe021db11e760262e006528a889af98195ec451d3459eb0d7b23741db2a72e3dac270bd89ff59b298831c5ed23dc0f8d9956deccd60ca5dad60b3654f4c3bedd11309ca1c88fb&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
-陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=293a262ddc3a2c6ffae0a50af9dbb7caab3ade25052c2bfb25e033bd80244f4407db1590cf2bf14b6f0207e72294453e4acbbcc27fd055dca68861d117a39447583aefb0a9ff1f033c428201a46978d47b&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d$订阅源
-三沙卫视,https://mgtv.ottiptv.cc/mg/961023778.m3u8?userid=5559462299&sign=6777d458fab5a2ae99c436b5c00ce31c639fb8c3b4cb850ac9358fbbb0dbc52c84aede0d21db080ac78ae9fe9b90c497f81bc87c358995d303b693e262138bd70e7ca0b1ddc36313efbb8f70e982c3812a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
-香港卫视,http://r.jdshipin.com/cCCzW$订阅源
-香港卫视,http://r.jdshipin.com/cCCzW$订阅源
 香港卫视,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
 香港卫视,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
+香港卫视,http://r.jdshipin.com/cCCzW$订阅源
+香港卫视,http://r.jdshipin.com/cCCzW$订阅源
+香港卫视,http://cdn6.163189.xyz/163189/amzy$订阅源
+香港卫视,http://cdn6.163189.xyz/163189/amzy$订阅源
 香港卫视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 香港卫视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-香港卫视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
-香港卫视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 
 📡港澳台频道,#genre#
-翡翠台,http://r.jdshipin.com/cCCzW$订阅源
 翡翠台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+翡翠台,http://r.jdshipin.com/cCCzW$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/amzy$订阅源
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 翡翠台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-明珠台,http://r.jdshipin.com/cCCzW$订阅源
 明珠台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-明珠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+明珠台,http://r.jdshipin.com/cCCzW$订阅源
 明珠台,http://cdn6.163189.xyz/163189/amzy$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 明珠台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-凤凰中文,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-凤凰中文,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/amzy$订阅源
+凤凰中文,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 凤凰中文,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 凤凰中文,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+凤凰中文,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 凤凰中文,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-凤凰资讯,http://r.jdshipin.com/cCCzW$订阅源
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-凤凰资讯,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-凤凰资讯,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+凤凰资讯,http://r.jdshipin.com/cCCzW$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/amzy$订阅源
+凤凰资讯,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 凤凰资讯,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 凤凰资讯,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+凤凰资讯,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 凤凰资讯,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-凤凰香港,http://r.jdshipin.com/cCCzW$订阅源
 凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-凤凰香港,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-凤凰香港,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+凤凰香港,http://r.jdshipin.com/cCCzW$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/amzy$订阅源
+凤凰香港,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 凤凰香港,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 凤凰香港,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+凤凰香港,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 凤凰香港,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-凤凰卫视,http://r.jdshipin.com/cCCzW$订阅源
 凤凰卫视,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-凤凰卫视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-凤凰卫视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+凤凰卫视,http://r.jdshipin.com/cCCzW$订阅源
 凤凰卫视,http://cdn6.163189.xyz/163189/amzy$订阅源
+凤凰卫视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 凤凰卫视,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 凤凰卫视,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+凤凰卫视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 凤凰卫视,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-TVBS亚洲,http://r.jdshipin.com/cCCzW$订阅源
 TVBS亚洲,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-TVBS亚洲,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-TVBS亚洲,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+TVBS亚洲,http://r.jdshipin.com/cCCzW$订阅源
 TVBS亚洲,http://cdn6.163189.xyz/163189/amzy$订阅源
+TVBS亚洲,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 TVBS亚洲,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 TVBS亚洲,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+TVBS亚洲,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-TVBS新闻,http://r.jdshipin.com/cCCzW$订阅源
 TVBS新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-TVBS新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-TVBS新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+TVBS新闻,http://r.jdshipin.com/cCCzW$订阅源
 TVBS新闻,http://cdn6.163189.xyz/163189/amzy$订阅源
+TVBS新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 TVBS新闻,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 TVBS新闻,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+TVBS新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 TVBS新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-民视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 民视新闻 HD,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-民视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-民视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+民视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 民视新闻 HD,http://cdn6.163189.xyz/163189/amzy$订阅源
+民视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 民视新闻 HD,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 民视新闻 HD,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+民视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 民视新闻 HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-台视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 台视新闻 HD,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-台视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-台视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+台视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 台视新闻 HD,http://cdn6.163189.xyz/163189/amzy$订阅源
+台视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 台视新闻 HD,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 台视新闻 HD,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+台视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 台视新闻 HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-中视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 中视新闻 HD,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-中视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-中视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+中视新闻 HD,http://r.jdshipin.com/cCCzW$订阅源
 中视新闻 HD,http://cdn6.163189.xyz/163189/amzy$订阅源
+中视新闻 HD,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 中视新闻 HD,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 中视新闻 HD,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+中视新闻 HD,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 中视新闻 HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-三立iNEWS,http://r.jdshipin.com/cCCzW$订阅源
 三立iNEWS,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-三立iNEWS,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-三立iNEWS,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+三立iNEWS,http://r.jdshipin.com/cCCzW$订阅源
 三立iNEWS,http://cdn6.163189.xyz/163189/amzy$订阅源
+三立iNEWS,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 三立iNEWS,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 三立iNEWS,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+三立iNEWS,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 三立iNEWS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-寰宇新闻,http://r.jdshipin.com/cCCzW$订阅源
 寰宇新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-寰宇新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-寰宇新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+寰宇新闻,http://r.jdshipin.com/cCCzW$订阅源
 寰宇新闻,http://cdn6.163189.xyz/163189/amzy$订阅源
+寰宇新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 寰宇新闻,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 寰宇新闻,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+寰宇新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 寰宇新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-镜新闻Mnews,http://r.jdshipin.com/cCCzW$订阅源
 镜新闻Mnews,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-镜新闻Mnews,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-镜新闻Mnews,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+镜新闻Mnews,http://r.jdshipin.com/cCCzW$订阅源
 镜新闻Mnews,http://cdn6.163189.xyz/163189/amzy$订阅源
+镜新闻Mnews,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 镜新闻Mnews,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 镜新闻Mnews,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+镜新闻Mnews,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 镜新闻Mnews,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-中天新闻,http://r.jdshipin.com/cCCzW$订阅源
 中天新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-中天新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-中天新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+中天新闻,http://r.jdshipin.com/cCCzW$订阅源
 中天新闻,http://cdn6.163189.xyz/163189/amzy$订阅源
+中天新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 中天新闻,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 中天新闻,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+中天新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 中天新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-三立台湾,http://r.jdshipin.com/cCCzW$订阅源
 三立台湾,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-三立台湾,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-三立台湾,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+三立台湾,http://r.jdshipin.com/cCCzW$订阅源
 三立台湾,http://cdn6.163189.xyz/163189/amzy$订阅源
+三立台湾,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 三立台湾,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 三立台湾,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+三立台湾,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 三立台湾,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-无线新闻,http://r.jdshipin.com/cCCzW$订阅源
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-无线新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+无线新闻,http://r.jdshipin.com/cCCzW$订阅源
 无线新闻,http://cdn6.163189.xyz/163189/amzy$订阅源
+无线新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 无线新闻,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 无线新闻,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 无线新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-三立新闻,http://r.jdshipin.com/cCCzW$订阅源
 三立新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-三立新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-三立新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+三立新闻,http://r.jdshipin.com/cCCzW$订阅源
 三立新闻,http://cdn6.163189.xyz/163189/amzy$订阅源
+三立新闻,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 三立新闻,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 三立新闻,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+三立新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 三立新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-东森综合,http://r.jdshipin.com/cCCzW$订阅源
 东森综合,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-东森综合,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-东森综合,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+东森综合,http://r.jdshipin.com/cCCzW$订阅源
 东森综合,http://cdn6.163189.xyz/163189/amzy$订阅源
+东森综合,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 东森综合,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 东森综合,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+东森综合,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 东森综合,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-东森超视,http://r.jdshipin.com/cCCzW$订阅源
 东森超视,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-东森超视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-东森超视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+东森超视,http://r.jdshipin.com/cCCzW$订阅源
 东森超视,http://cdn6.163189.xyz/163189/amzy$订阅源
+东森超视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 东森超视,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 东森超视,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+东森超视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 东森超视,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-靖天资讯,http://r.jdshipin.com/cCCzW$订阅源
 靖天资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-靖天资讯,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-靖天资讯,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+靖天资讯,http://r.jdshipin.com/cCCzW$订阅源
 靖天资讯,http://cdn6.163189.xyz/163189/amzy$订阅源
+靖天资讯,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 靖天资讯,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 靖天资讯,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+靖天资讯,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 靖天资讯,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-星卫娱乐,http://r.jdshipin.com/cCCzW$订阅源
 星卫娱乐,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-星卫娱乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-星卫娱乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+星卫娱乐,http://r.jdshipin.com/cCCzW$订阅源
 星卫娱乐,http://cdn6.163189.xyz/163189/amzy$订阅源
+星卫娱乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 星卫娱乐,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 星卫娱乐,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+星卫娱乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 星卫娱乐,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-卫视卡式,http://r.jdshipin.com/cCCzW$订阅源
 卫视卡式,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-卫视卡式,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-卫视卡式,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+卫视卡式,http://r.jdshipin.com/cCCzW$订阅源
 卫视卡式,http://cdn6.163189.xyz/163189/amzy$订阅源
+卫视卡式,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 卫视卡式,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 卫视卡式,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+卫视卡式,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 卫视卡式,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-美亚C+,http://r.jdshipin.com/cCCzW$订阅源
 美亚C+,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-美亚C+,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-美亚C+,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+美亚C+,http://r.jdshipin.com/cCCzW$订阅源
 美亚C+,http://cdn6.163189.xyz/163189/amzy$订阅源
+美亚C+,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 美亚C+,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 美亚C+,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+美亚C+,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 美亚C+,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-澳门综艺,http://r.jdshipin.com/cCCzW$订阅源
 澳门综艺,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-澳门综艺,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-澳门综艺,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+澳门综艺,http://r.jdshipin.com/cCCzW$订阅源
 澳门综艺,http://cdn6.163189.xyz/163189/amzy$订阅源
+澳门综艺,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 澳门综艺,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 澳门综艺,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+澳门综艺,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 澳门综艺,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-The K-POP,http://r.jdshipin.com/cCCzW$订阅源
 The K-POP,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-The K-POP,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-The K-POP,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+The K-POP,http://r.jdshipin.com/cCCzW$订阅源
 The K-POP,http://cdn6.163189.xyz/163189/amzy$订阅源
+The K-POP,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 The K-POP,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 The K-POP,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+The K-POP,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 The K-POP,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-時尚台FTV,http://r.jdshipin.com/cCCzW$订阅源
 時尚台FTV,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-時尚台FTV,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-時尚台FTV,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+時尚台FTV,http://r.jdshipin.com/cCCzW$订阅源
 時尚台FTV,http://cdn6.163189.xyz/163189/amzy$订阅源
+時尚台FTV,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 時尚台FTV,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 時尚台FTV,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+時尚台FTV,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 時尚台FTV,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-纬来体育,http://r.jdshipin.com/cCCzW$订阅源
 纬来体育,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-纬来体育,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-纬来体育,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+纬来体育,http://r.jdshipin.com/cCCzW$订阅源
 纬来体育,http://cdn6.163189.xyz/163189/amzy$订阅源
+纬来体育,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 纬来体育,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 纬来体育,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+纬来体育,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 纬来体育,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-纬来育乐,http://r.jdshipin.com/cCCzW$订阅源
 纬来育乐,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-纬来育乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-纬来育乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+纬来育乐,http://r.jdshipin.com/cCCzW$订阅源
 纬来育乐,http://cdn6.163189.xyz/163189/amzy$订阅源
+纬来育乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 纬来育乐,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 纬来育乐,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+纬来育乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 纬来育乐,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 
 🎬电影频道,#genre#
-CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=9e2f0b0c30ac6acfd28c72020e69b1d74940c96fa3d61fe85712a7f5086a952967910463dc7aefcf533ac331f188c7546491fee7545fbd4c9e4f4c655f3fb591cec38546ca6ae6ab9be8aa2917bd12c3c1&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
 CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
 CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
-CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign=ab55ba53268294775fe1ee7fb28560b1c4e553e9741047f1a252abf7f47ab812fe5d527cb9cd8a81243d3ee1442f86d904edcdc1df7b2a6e4bf948a5098d541763249e4e7c5a7aba551392e93ac9eb014a&auth_token=d96795f1341390f714a1afffe625b303$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8$订阅源
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8$订阅源
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
-靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$订阅源
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$订阅源
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058$订阅源
-星卫娱乐,http://r.jdshipin.com/cCCzW$订阅源
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$订阅源
+靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058$订阅源
 星卫娱乐,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-星卫娱乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-星卫娱乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+星卫娱乐,http://r.jdshipin.com/cCCzW$订阅源
 星卫娱乐,http://cdn6.163189.xyz/163189/amzy$订阅源
+星卫娱乐,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 星卫娱乐,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 星卫娱乐,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+星卫娱乐,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 星卫娱乐,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
-东森电影,http://r.jdshipin.com/cCCzW$订阅源
 东森电影,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-东森电影,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-东森电影,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+东森电影,http://r.jdshipin.com/cCCzW$订阅源
 东森电影,http://cdn6.163189.xyz/163189/amzy$订阅源
+东森电影,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 东森电影,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 东森电影,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+东森电影,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 东森电影,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8$订阅源
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv$订阅源
-东森超视,http://r.jdshipin.com/cCCzW$订阅源
+东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv$订阅源
 东森超视,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-东森超视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-东森超视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+东森超视,http://r.jdshipin.com/cCCzW$订阅源
 东森超视,http://cdn6.163189.xyz/163189/amzy$订阅源
+东森超视,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 东森超视,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 东森超视,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+东森超视,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 东森超视,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-Now剧集,http://r.jdshipin.com/cCCzW$订阅源
 Now剧集,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-Now剧集,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-Now剧集,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+Now剧集,http://r.jdshipin.com/cCCzW$订阅源
 Now剧集,http://cdn6.163189.xyz/163189/amzy$订阅源
+Now剧集,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 Now剧集,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 Now剧集,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+Now剧集,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 Now剧集,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-Now华剧,http://r.jdshipin.com/cCCzW$订阅源
 Now华剧,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-Now华剧,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-Now华剧,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+Now华剧,http://r.jdshipin.com/cCCzW$订阅源
 Now华剧,http://cdn6.163189.xyz/163189/amzy$订阅源
+Now华剧,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 Now华剧,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 Now华剧,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+Now华剧,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 Now华剧,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-美亚电影,http://r.jdshipin.com/cCCzW$订阅源
 美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$IPV4•线路3
-美亚电影,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-美亚电影,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+美亚电影,http://r.jdshipin.com/cCCzW$订阅源
 美亚电影,http://cdn6.163189.xyz/163189/amzy$订阅源
+美亚电影,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 美亚电影,http://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 美亚电影,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
+美亚电影,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 美亚电影,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
