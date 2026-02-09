@@ -2,19 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
-http://xn--elt51t.azip.dpdns.org:5008/?type=m3u
-https://framagit.org/knnnn/luye/-/raw/main/j/22.txt?ref_type=heads
-http://47.120.41.246:8899/zb.txt
-https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt
-https://raw.githubusercontent.com/butterfly202400/dsy/refs/heads/main/ln2503.m3u
-https://cdn.jsdelivr.net/gh/hostemail/cdn@main/live/smart.txt
-https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart.txt
-https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart1.txt
-https://raw.githubusercontent.com/Alan-Alana/IPTV/refs/heads/main/channl.txt
 https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V4.m3u
 https://raw.githubusercontent.com/peterHchina/iptv/refs/heads/main/CNTV-V6.m3u
 https://web.banye.tech:7777/tv/hlj.txt
