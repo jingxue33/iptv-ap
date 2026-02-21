@@ -5,7 +5,8 @@
 
 https://13035.kstore.space/url/歌曲.txt
 
-
+"咪咕订阅源"https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml"
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
