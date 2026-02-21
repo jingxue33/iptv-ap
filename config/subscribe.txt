@@ -6,7 +6,12 @@
 https://13035.kstore.space/url/歌曲.txt
 
 
-
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/dianshijia_10.1.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/好朋友直播_几万电影频道.txt
 https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u
