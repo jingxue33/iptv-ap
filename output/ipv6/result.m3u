@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jingxue33/iptv-ap/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-03 19:23:06
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-04 06:59:40
 https://www.freetv.top/migu/631780532.m3u8?migutoken=3817ca50a762ff83bc8d334da331289af793521d8bb2de106288e3c7bfbd4f400da7b7a0d45e8e5f3908edbe997bc97435737ae08ccac404064b7de1ad9dd844f73147aa85407e91748754eaff$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://www.freetv.top/migu/631780532.m3u8?migutoken=3817ca50a762ff83bc8d334da331289af793521d8bb2de106288e3c7bfbd4f400da7b7a0d45e8e5f3908edbe997bc97435737ae08ccac404064b7de1ad9dd844f73147aa85407e91748754eaff$订阅源
@@ -41,10 +41,6 @@ https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd0
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -65,10 +61,8 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📺央视频道",广西卫视
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📺央视频道",贵州卫视
-https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📺央视频道",贵州卫视
-https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📺央视频道",海南卫视
+https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📺央视频道",海南卫视
 https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📺央视频道",吉林卫视
